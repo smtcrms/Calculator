@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Eenvoudige Rekenmachine</string>
+    <string name="app_launcher_name">Rekenmachine</string>
+    <string name="scientific_calculator">Wetenschappelijke Calculator</string>
+
+    <!-- Settings -->
+    <string name="vibrate_on_button_press">Trillen bij tikken</string>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">Hoe werkt de knop C (Clear)?</string>
+    <string name="faq_1_text">Kort tikken verwijdert een karakter per keer. Lang drukken wist alle velden ineens.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Een eenvoudige rekenmachine met aan te passen widget.</string>
+    <string name="app_long_description">
+        Er kunnen geen eenheden worden omgezet. Formules en uitkomsten kunnen naar het klembord worden gekopieerd door er lang op te drukken.
+
+        De tekstkleur van de widget kan worden aangepast, evenals de kleur en transparantie van de achtergrond. Druk op de formule of het resultaat in de widget om de app te openen.
+		
+        Bevat geen advertenties of onnodige machtigingen. Volledig open-source. Kleuren van de app kunnen worden aangepast.
+
+        Deze app is onderdeel van een grotere verzameling. Vind de andere apps op https://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
